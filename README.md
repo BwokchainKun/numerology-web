@@ -1,4 +1,5 @@
-# first-web
+# NUMEROLOGY WEB WITH VUE JS
+## Visit The Live Demo Website [Here](https://numerology.narakun.my.id/zodiac&astrology)
 
 ## Project setup
 ```
